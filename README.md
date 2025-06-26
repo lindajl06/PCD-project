@@ -5,3 +5,4 @@ Klasifikasi Motif Batik Berbasis Tekstur Menggunakan Pengolahan Citra Digital
 - Linda Julivia (F1D02310072)
 - Muhammad Arafa Yahfazhka(F1D02310126)
 - Alya Dwi Pangesti (F1D02310104)
+- Bagus Esa Wijaya Kusuma (F1D02310005)
